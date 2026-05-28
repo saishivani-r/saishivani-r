@@ -12,12 +12,6 @@
 
 - 📫 Reach out to me at **saishivani.ramakrishna@gmail.com**
 
-<h3 align="left">GitHub Stats:</h3>
-<div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="nithingowda16" /></p>
-<br>
-</div>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
